@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno Faria</title>
+    <link>https://brunofariadf.github.io/</link>
+    <description>Recent content on Bruno Faria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://brunofariadf.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guia</title>
+      <link>https://brunofariadf.github.io/guia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunofariadf.github.io/guia/</guid>
+      <description>LivroProgramaçãoIndicação de livro-texto para quem estiver interessado tanto em aprender sobre análise de dados quanto ingressar na área de dados. Todavia, não é um guia definitivo, sendo apenas uma sugestão.
+MatemáticaEstatísticaProgramaçãoPodcastAutor Livro Editora Ano Comentário IEZZI, G. MURAKAMI, C. Fundamentos de Matemática Elementar: conjuntos e funções, v.</description>
+    </item>
+    
+    <item>
+      <title>Projeto</title>
+      <link>https://brunofariadf.github.io/projeto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunofariadf.github.io/projeto/</guid>
+      <description>Icone  Projeto  Status  Descrição       Inadimplência  2022  Esse projeto constitui criação de /painel com objetivo de estudo sobre inadimplência com dados do Banco Central do Brasil.   --   Olimpíada  2022  Esse projeto constitui criação de /painel com objetivo de estudo sobre total de medalha olímpica com dados públicos coletados.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://brunofariadf.github.io/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunofariadf.github.io/sobre/</guid>
+      <description>Autor Sou o Bruno, estudante de estatística. Tenho interesse em matemática, estatística e programação, do qual, mais especificamente e profissionalmente, tenho foco em tratamento e análise de dados, modelagem estatística e estatística computacional. Projeto No que concerce aba /projeto é para apresentar meus trabalhos em desenvolvimento ou concluídos de estatística e programação.Guia Na aba /guia é apresentado tabela com sugestão de leitura de material criado por outros profissionais com foco em matemática, estatística e programação.</description>
+    </item>
+    
+  </channel>
+</rss>
