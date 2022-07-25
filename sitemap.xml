@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
+    <loc>https://brunofariadf.github.io/blog/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://brunofariadf.github.io/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://brunofariadf.github.io/categories/</loc>
   </url><url>
-    <loc>/blog/guide-disable/</loc>
+    <loc>https://brunofariadf.github.io/blog/guide-disable/</loc>
   </url><url>
-    <loc>/guia/</loc>
+    <loc>https://brunofariadf.github.io/guia/</loc>
   </url><url>
-    <loc>/projeto/</loc>
+    <loc>https://brunofariadf.github.io/projeto/</loc>
   </url><url>
-    <loc>/sobre/</loc>
+    <loc>https://brunofariadf.github.io/sobre/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://brunofariadf.github.io/tags/</loc>
   </url>
 </urlset>
