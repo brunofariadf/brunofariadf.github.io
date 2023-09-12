@@ -41,7 +41,16 @@ MatemáticaEstatísticaProgramaçãoAutor Livro Editora Ano 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://brunofariadf.github.io/sobre/</guid>
-      <description>Autor Sou o Bruno, estudante de estatística. Tenho interesse em matemática, estatística e programação, do qual, mais especificamente e profissionalmente, tenho foco em tratamento e análise de dados, modelagem estatística e estatística computacional. Projeto No que concerce aba /projeto é para apresentar meus trabalhos em desenvolvimento ou concluídos de estatística e programação.Guia Na aba /guia é apresentado tabela com sugestão de leitura de material criado por outros profissionais com foco em matemática, estatística e programação.</description>
+      <description>Autor Sou o Bruno, concluindo bacharelado em estatística (UFPR). Tenho experiência profissional na área de crédito e risco de crédito atuando com política de crédito, modelagem de risco, automatização e relatório gerencial aplicando behaviorscore, credit score, entre outros. Habilidade Em geral, algumas habilidades são voltadas para tratamento, análise e modelagem estatística aplicando glm, gamlss, machine learning e séries temporais com tecnologias R, Python, SAS, SQL, Látex, HTML/CSS.</description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>https://brunofariadf.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunofariadf.github.io/talk/</guid>
+      <description>Icone Local Apresentação Título Descrição UFPR slide Torneio de Candidatos de Xadrez: previsão do resultado com machine learningModelagem estatística para dados do jogo de xadrez com modelos de regressão logística e random forest.</description>
     </item>
     
   </channel>
