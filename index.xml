@@ -32,7 +32,7 @@ MatemáticaEstatísticaProgramaçãoAutor Livro Editora Ano 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://brunofariadf.github.io/projeto/</guid>
-      <description>Icone  Projeto  Status  Descrição       Inadimplência  2022  Esse projeto constitui criação de /painel com objetivo de estudo sobre inadimplência com dados do Banco Central do Brasil.   --    cran-search  incompleto  Esse projeto constitui criação de /página com objetivo de pesquisar pacote para linguagem de programação R no repositório CRAN.</description>
+      <description>Icone  Projeto  Status  -- Descrição       Inadimplência  2022  Esse projeto constitui criação de /painel com objetivo de estudo sobre inadimplência com dados do Banco Central do Brasil.   --    cran-search  incompleto  -- Esse projeto constitui criação de /página com objetivo de pesquisar pacote para linguagem de programação R no repositório CRAN.</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@ MatemáticaEstatísticaProgramaçãoAutor Livro Editora Ano 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://brunofariadf.github.io/talk/</guid>
-      <description>Icone Local Apresentação Descrição UFPR Torneio de Candidatos de Xadrez: previsão do resultado por métodos de machine learning Modelagem estatística para dados do jogo de xadrez com modelos de regressão logística e random forest.</description>
+      <description>Icone Local Apresentação Descrição UFPR Predição da Inadimplência: aplicação com séries temporais Modelagem estatística para dados do Bacen com o modelo ARIMA.UFPR Torneio de Candidatos de Xadrez: previsão do resultado por métodos de machine learning Modelagem estatística para dados do jogo de xadrez com modelos de regressão logística e random forest.</description>
     </item>
     
   </channel>
